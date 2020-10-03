@@ -1,2 +1,2 @@
 # pfoa
-Web application which illustrates monthly expenses of a user.
+Web application which illustrates monthly expens of a user.
